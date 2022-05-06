@@ -41,3 +41,7 @@ I program ESP32 using arduino IDE. Using WiFI library, I connect ESP32 to WiFi. 
 
 I used LED to test the system. Using  the timing function of arduino IDE, the average latency for phone app to send data to ESP32 is around 3 seconds. The average latency for ESP32 to send data to phone App is around 5 seconds.
 
+# 2021-04-18 - Integrate Phone app and esp32 to circuitry and PCB.
+
+Worked with teammates to combine all subsystems.
+![img](https://lh6.googleusercontent.com/15pDs_B5sKj6z-Fytwyppc26Aj1PIoL_OsK82HPXnx4qKVcOd-AnLyQKns6m3w1rUZusyNtE5LikUiq4JwXV2s-PQYH2NvBLC-GbjYb9LIUpTXLOx1-BmkSQYV97u4TABnL59SXhOhw)
